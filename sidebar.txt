@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sow:home|Door43 (sow)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sow|d43-sow repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sow/archive/master.zip|d43-sow.zip]]
+
+**Recent Changes**
+{{changes>ns = sow}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sow|Ethnologue data]]
+
